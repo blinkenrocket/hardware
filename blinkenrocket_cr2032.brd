@@ -195,7 +195,7 @@
 </polygon>
 <circle x="53.34" y="21.59" radius="0.3175" width="0.3048" layer="22"/>
 <circle x="31.4325" y="7.62" radius="0.3175" width="0.3048" layer="22"/>
-<text x="4.445" y="43.18" size="1.016" layer="26" ratio="10" rot="MR45" align="center-right">Rev 2a</text>
+<text x="4.445" y="43.18" size="1.016" layer="26" ratio="10" rot="MR45" align="center-right">Rev 2b</text>
 </plain>
 <libraries>
 <library name="SparkFun-DigitalIC">
