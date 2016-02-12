@@ -10725,7 +10725,7 @@ INFINEON, www.infineon.com/cmc_upload/0/000/010/257/eh_db_5b.pdf</description>
 <part name="C2" library="resistor" deviceset="C-EU" device="C1206" value="0.47uF"/>
 <part name="R1" library="resistor" deviceset="R-EU_" device="R1206" value="8.2K"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="R1206" value="6.8K"/>
-<part name="R3" library="resistor" deviceset="R-EU_" device="R1206" value="33"/>
+<part name="R3" library="resistor" deviceset="R-EU_" device="R1206" value="16"/>
 <part name="D2" library="diode-1" deviceset="DIODE-" device="SOD123" value="1N4148"/>
 <part name="D1" library="diode-1" deviceset="DIODE-" device="SOD123" value="1N4148"/>
 <part name="GND3" library="SparkFun-Aesthetics" deviceset="GND" device=""/>

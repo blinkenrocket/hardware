@@ -1966,7 +1966,7 @@ Based on the following sources:
 <attribute name="NAME" x="41.656" y="38.6715" size="1.016" layer="26" ratio="10" rot="MR90"/>
 <attribute name="VALUE" x="43.7515" y="34.2265" size="1.016" layer="28" ratio="10" rot="MR90"/>
 </element>
-<element name="R3" library="resistor" package="R1206" value="33" x="23.495" y="35.56" smashed="yes" rot="MR270">
+<element name="R3" library="resistor" package="R1206" value="16" x="23.495" y="35.56" smashed="yes" rot="MR270">
 <attribute name="NAME" x="22.606" y="38.6715" size="1.016" layer="26" ratio="10" rot="MR90"/>
 <attribute name="VALUE" x="24.7015" y="34.8615" size="1.016" layer="28" ratio="10" rot="MR90"/>
 </element>
