@@ -2543,10 +2543,11 @@ Your Multi-CB Team
 <wire x1="48.895" y1="10.795" x2="41.91" y2="17.78" width="0.254" layer="1"/>
 <wire x1="41.91" y1="17.78" x2="38.1" y2="17.78" width="0.254" layer="1"/>
 <via x="38.1" y="17.78" extent="1-16" drill="0.5" diameter="0.254" shape="octagon"/>
-<wire x1="38.1" y1="17.78" x2="34.29" y2="17.9455" width="0.254" layer="16"/>
 <wire x1="34.29" y1="17.9455" x2="29.3755" y2="17.9455" width="0.3048" layer="16"/>
 <wire x1="29.3755" y1="17.9455" x2="27.6225" y2="16.1925" width="0.3048" layer="16"/>
 <wire x1="27.6225" y1="16.1925" x2="27.6225" y2="13.8303" width="0.3048" layer="16"/>
+<wire x1="38.1" y1="17.78" x2="34.29" y2="17.78" width="0.3048" layer="16"/>
+<wire x1="34.29" y1="17.78" x2="34.29" y2="17.9455" width="0.3048" layer="16"/>
 </signal>
 <signal name="B2">
 <contactref element="U$2" pad="26"/>
